@@ -7,4 +7,8 @@
 - Lab5 - TIER protocol i Tidy Data
 - Lab6 - Exploratory Data Analysis
 - Lab7 - Modele liniowe
+- Lab8 - NLP Klasyfikator
+- Lab9 - Naiwny klasyfikator bayesowski
+- Lab10 - Modelowanie szeregów czasowych
+- Lab11 - Przestrzenne bazy danych
 
