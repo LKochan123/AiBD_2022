@@ -8,7 +8,7 @@
 - Lab6 - Exploratory Data Analysis
 - Lab7 - Modele liniowe
 - Lab8 - NLP Klasyfikator
-- Lab9 - Naiwny klasyfikator bayesowski
+- Lab9 - XXX
 - Lab10 - Modelowanie szeregów czasowych
 - Lab11 - Przestrzenne bazy danych
 - Lab12 - Tworzenie baz danych 
