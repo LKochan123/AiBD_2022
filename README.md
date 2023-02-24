@@ -11,4 +11,6 @@
 - Lab9 - Naiwny klasyfikator bayesowski
 - Lab10 - Modelowanie szeregów czasowych
 - Lab11 - Przestrzenne bazy danych
-
+- Lab12 - Tworzenie baz danych 
+- Lab13 - XXX
+- Lab14 - Wprowadzenie do R-clustering
